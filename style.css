@@ -1,3 +1,59 @@
-body {
-
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
 }
+
+
+.navbar {
+  background: hotpink;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+
+  padding: 15px 30px;
+  box-sizing: border-box;
+}
+
+/* LOGO */
+.logo {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* LINKS */
+.nav-links {
+  list-style: none;
+
+  display: flex;
+  gap: 25px;
+
+  margin: 0 auto;
+  padding: 0;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.nav-links a:hover {
+  color: #ffe6f2;
+}
+
+body {
+  background-color: lavender;
+}
+h2 {
+  color: magenta;
+  text-decoration: wavy 3px purple underline;
+}
+
+h2:hover {
+  text-shadow: 0 0 23px blue;
+}
+
