@@ -16,14 +16,12 @@ html, body {
   box-sizing: border-box;
 }
 
-/* LOGO */
 .logo {
   color: white;
   font-size: 24px;
   font-weight: bold;
 }
 
-/* LINKS */
 .nav-links {
   list-style: none;
 
