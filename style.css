@@ -53,7 +53,9 @@ body {
 }
 h2 {
   color: magenta;
-  text-decoration: wavy 3px purple underline;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: purple;
 }
 
 h2:hover {
