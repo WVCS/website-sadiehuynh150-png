@@ -65,3 +65,11 @@ iframe {
   margin: 30px auto;
 }
 
+.page-title {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-size: 40px;
+  color: purple;
+}
+
