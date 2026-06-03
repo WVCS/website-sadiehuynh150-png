@@ -60,3 +60,8 @@ h2:hover {
   text-shadow: 0 0 23px blue;
 }
 
+iframe {
+  display: block;
+  margin: 30px auto;
+}
+
